@@ -39,4 +39,10 @@ git checkout -b "titulo que yo quiera ponerle" (la b es para crear, si no pones 
 
 ## Para subir la nueva rama a git hub
  
-git push -u origina "nombre de la rama" 
+git push -u origin "nombre de la rama" 
+
+## Para combinar las ramas usamos: 
+
+git merge "nombre de la rama que queres traer"
+
+
